@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.app-container{margin: 50px auto;width: 500px;padding: 65px;border-radius:12px;background: #eafdff;box-shadow: 0 4px 16px rgb(0 0 0 / 9%);}
+.app-container input[type="text"]{width: 100%;padding: 10px;outline: 0;box-sizing: border-box;}
+.app-container label{width: 100%;text-align: left;display: inline-block;margin-bottom: 5px;}
+.input-fld{margin-bottom: 20px;}
+.lbl-error{color: red;font-size: 12px;}
+.app-container input[type="submit"]{
+  background: #f27935;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 3px;
+  border: none;
+  padding: 10px 38px;
+}
+
+.welcom{background-color: aquamarine;font-weight: bold; padding: 10px 20px; margin: 20px 0;}
